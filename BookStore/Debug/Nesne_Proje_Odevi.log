@@ -1,0 +1,19 @@
+﻿  TestApplicationMain.cpp
+c:\users\mangrrua\documents\visual studio 2015\projects\nesne_proje_odevi\nesne_proje_odevi\testapplicationmain.cpp(87): warning C4101: 'choice': unreferenced local variable
+c:\users\mangrrua\documents\visual studio 2015\projects\nesne_proje_odevi\nesne_proje_odevi\testapplicationmain.cpp(294): warning C4101: 'ch': unreferenced local variable
+  ShoppingCart.cpp
+  ProductToPurchase.cpp
+  Product.cpp
+  Payment.cpp
+  Magazine.cpp
+  Customer.cpp
+  CreditCard.cpp
+  Check.cpp
+  Cash.cpp
+  Book.cpp
+  Generating Code...
+  Compiling...
+  MusicCD.cpp
+  Generating Code...
+  Nesne_Proje_Odevi.vcxproj -> C:\Users\mangrrua\Documents\Visual Studio 2015\Projects\Nesne_Proje_Odevi\Debug\Nesne_Proje_Odevi.exe
+  Nesne_Proje_Odevi.vcxproj -> C:\Users\mangrrua\Documents\Visual Studio 2015\Projects\Nesne_Proje_Odevi\Debug\Nesne_Proje_Odevi.pdb (Partial PDB)
